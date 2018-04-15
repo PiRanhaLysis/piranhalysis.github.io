@@ -6,6 +6,8 @@ permalink:           pretty
 
 # Setup
 title:               PiRanhaLysis
+tagline:             Your comprehensive IoT analysis suite
+description:         A modern, multi-modular and comprehensive IoT and mobile app analysis suite
 paginate:            1
 baseurl:             ""
 
