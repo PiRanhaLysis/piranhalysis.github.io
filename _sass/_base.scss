@@ -35,13 +35,13 @@ body {
 a {
   color: $link-color;
   text-decoration: none;
-  border-bottom: 1px solid $purple
+  border-bottom: 1px solid $purple;
 
   // `:focus` is linked to `:hover` for basic accessibility
   &:hover,
   &:focus {
     // text-decoration: underline;
-    border-bottom: 1px dashed $purple
+    border-bottom: 1px dashed $purple;
   }
 
   strong {
