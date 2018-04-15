@@ -1,2 +1,32 @@
 theme: jekyll-theme-minimal
 name: PiRanhaLysis, the comprehensive IoT analysis suite
+
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               PiRanhaLysis
+paginate:            1
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              PiRanhaLysis
+  url:               https://twitter.com/PiRanhaLysis
+  email:             
+
+# Custom vars
+github:
+  repo:              https://github.com/PiRanhaLysis/piranhalysis.github.io.git
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
