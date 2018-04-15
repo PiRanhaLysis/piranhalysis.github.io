@@ -28,7 +28,7 @@ You can also [follow our adventures on Twitter](https://twitter.com/PiRanhaLysis
 
 N'hésitez pas à nous contacter si vous avez utilisé le projet et souhaitez en parler (divers formats sont possibles : du texte, multimédia, etc.). Le contenu peut être en français et/ou en anglais (pour d'autres langues, contactez-nous avant d'avoir écrit toute votre prose ;) ).
 
-There are currently three main modules built within PiRanhaLysis:
+Actuellement, la suite PiRanhaLysis propose trois modules d'analyse :
 
 * [PiRogue](https://github.com/PiRanhaLysis/PiRogue), une petite station permettant l'interception et l'analyse de paquets ;
 * [PiPrecious](https://github.com/PiRanhaLysis/PiPrecious), la plateforme de gestion et analyse de cas ;
