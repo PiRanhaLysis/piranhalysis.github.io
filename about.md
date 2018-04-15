@@ -3,28 +3,39 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PiRanhaLysis/piranhalysis.github.io/master/public/logo.png" width="250px" height="250px"/></p>
+  
+*Français ci-dessous*
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+**You have landed on the PiRanhaLysis's official (and bilingual) website.**
 
-There are currently two themes built on Poole:
+Feel free to contact us should you be willing to contribute your content (in writing, voice, etc.). Content should be in either French or English (for additional languages, ask us before you write it all up ;) ).
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+There are currently three main modules built within PiRanhaLysis:
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+* [PiRogue](https://github.com/PiRanhaLysis/PiRogue), a small device meant to ease network interception and analysis;
+* [PiPrecious](https://github.com/PiRanhaLysis/PiPrecious), the network analysis and experiment management platform;
+* [PiRanha](https://github.com/PiRanhaLysis/PiRanha), a mobile application and IoT network analysis automation tool;
 
-## Setup
+Learn more and contribute on [our GitHub](https://github.com/PiRanhaLysis).
 
-Some fun facts about the setup of this project include:
+You can also [follow our adventures on Twitter](https://twitter.com/PiRanhaLysis).
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+-----
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+**Vous êtes sur le site web officiel (et bilingue) du projet PiRanhaLysis.**
 
-Thanks for reading!
+N'hésitez pas à nous contacter si vous avez utilisé le projet et souhaitez en parler (divers formats sont possibles : du texte, multimédia, etc.). Le contenu peut être en français et/ou en anglais (pour d'autres langues, contactez-nous avant d'avoir écrit toute votre prose ;) ).
+
+There are currently three main modules built within PiRanhaLysis:
+
+* [PiRogue](https://github.com/PiRanhaLysis/PiRogue), une petite station permettant l'interception et l'analyse de paquets ;
+* [PiPrecious](https://github.com/PiRanhaLysis/PiPrecious), la plateforme de gestion et analyse de cas ;
+* [PiRanha](https://github.com/PiRanhaLysis/PiRanha), un outil d'automatisation de l'analyse réseau d'applications mobiles et des IoT.
+
+Vous pouvez en apprendre davantage sur le projet et y contribuer sur [notre projet dédié](https://github.com/PiRanhaLysis).
+
+Vous pouvez aussi [suivre nos aventures sur Touitteur](https://twitter.com/PiRanhaLysis).
+
+-----
