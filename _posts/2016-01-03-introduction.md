@@ -2,40 +2,36 @@
 layout: post
 title: Introduction
 ---
+*Français ci-dessous*
 
-*The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.
+**[Eglish] You have landed on the PiRanhaLysis's official (and bilingual) website.**
+
+Feel free to contact us should you be willing to contribute your content (in writing, voice, etc.). Content should be in either French or English (for additional languages, ask us before you write it all up ;) ).
+
+There are currently three main modules built within PiRanhaLysis:
+
+* [PiRogue, a small device meant to ease network interception and analysis](https://github.com/PiRanhaLysis/PiRogue);
+* [PiPrecious, the network analysis and experiment management platform](https://github.com/PiRanhaLysis/PiPrecious);
+* [PiRanha, a mobile application and IoT network analysis automation tool](https://github.com/PiRanhaLysis/PiRanha);
+
+Learn more and contribute on [our GitHub](https://github.com/PiRanhaLysis).
+
+You can also [follow our adventures on Twitter](https://twitter.com/PiRanhaLysis).
 
 -----
 
-Poole is the butler for [Jekyll](http://jekyllrb.com), the static site generator. It's designed and developed by [@mdo](https://twitter.com/mdo) to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example layouts, pages, posts, and styles.
+**[Français] Vous êtes sur le site web officiel (et bilingue) du projet PiRanhaLysis.**
 
-There are currently three themes built on Poole:
+N'hésitez pas à nous contacter si vous avez utilisé le projet et souhaitez en parler (divers formats sont possibles : du texte, multimédia, etc.). Le contenu peut être en français et/ou en anglais (pour d'autres langues, contactez-nous avant d'avoir écrit toute votre prose ;) ).
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-* [Enfield](http://enfield.getpoole.com)
+There are currently three main modules built within PiRanhaLysis:
 
-Learn more and contribute on [GitHub]({{ site.github.repo }}).
+* [PiRogue, une petite station permettant l'interception et l'analyse de paquets](https://github.com/PiRanhaLysis/PiRogue) ;
+* [PiPrecious, la plateforme de gestion et analyse de cas](https://github.com/PiRanhaLysis/PiPrecious) ;
+* [PiRanha, un outil d'automatisation de l'analyse réseau d'applications mobiles et des IoT](https://github.com/PiRanhaLysis/PiRanha).
 
-### What's included
+Vous pouvez en apprendre davantage sur le projet et y contribuer sur [notre projet dédié](https://github.com/PiRanhaLysis).
 
-Poole is a streamlined Jekyll site designed and built as a foundation for building more meaningful themes. Poole, and every theme built on it like this one, includes the following:
+Vous pouvez aussi [suivre nos aventures sur Touitter](https://twitter.com/PiRanhaLysis).
 
-* Complete Jekyll setup included (layouts, config, [404]({{ site.baseurl }}/404.html), [RSS feed]({{ site.baseurl }}/atom.xml), posts, and [example page]({{ site.baseurl }}/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Jekyll's built-in support for Rouge
-
-Additional features are available in individual themes.
-
-### Browser support
-
-Poole and its themes are by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
-
-### Download
-
-These themes are developed on and hosted with GitHub. Head to the [GitHub repository]({{ site.github.repo }}) for downloads, bug reports, and features requests.
-
-Thanks!
+-----
