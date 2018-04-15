@@ -5,7 +5,7 @@ title: Introduction
 *Français ci-dessous*
 
 <p align="center">
-  <img src="https://github.com/PiRanhaLysis/piranhalysis.github.io/blob/master/public/logo.png" width="250px" height="250px"/></p>
+  <img src="https://raw.githubusercontent.com/PiRanhaLysis/piranhalysis.github.io/master/public/logo.png" width="250px" height="250px"/></p>
 
 **You have landed on the PiRanhaLysis's official (and bilingual) website.**
 
