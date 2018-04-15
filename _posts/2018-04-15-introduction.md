@@ -39,3 +39,5 @@ Vous pouvez en apprendre davantage sur le projet et y contribuer sur [notre proj
 Vous pouvez aussi [suivre nos aventures sur Touitter](https://twitter.com/PiRanhaLysis).
 
 -----
+
+{% include twitter_plug.html %}
