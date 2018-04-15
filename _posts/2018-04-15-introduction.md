@@ -2,10 +2,11 @@
 layout: post
 title: Introduction
 ---
-*Français ci-dessous*
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/PiRanhaLysis/piranhalysis.github.io/master/public/logo.png" width="250px" height="250px"/></p>
+  
+*Français ci-dessous*
 
 **You have landed on the PiRanhaLysis's official (and bilingual) website.**
 
@@ -13,9 +14,9 @@ Feel free to contact us should you be willing to contribute your content (in wri
 
 There are currently three main modules built within PiRanhaLysis:
 
-* [PiRogue, a small device meant to ease network interception and analysis](https://github.com/PiRanhaLysis/PiRogue);
-* [PiPrecious, the network analysis and experiment management platform](https://github.com/PiRanhaLysis/PiPrecious);
-* [PiRanha, a mobile application and IoT network analysis automation tool](https://github.com/PiRanhaLysis/PiRanha);
+* [PiRogue](https://github.com/PiRanhaLysis/PiRogue), a small device meant to ease network interception and analysis;
+* [PiPrecious](https://github.com/PiRanhaLysis/PiPrecious), the network analysis and experiment management platform;
+* [PiRanha](https://github.com/PiRanhaLysis/PiRanha), a mobile application and IoT network analysis automation tool;
 
 Learn more and contribute on [our GitHub](https://github.com/PiRanhaLysis).
 
@@ -29,9 +30,9 @@ N'hésitez pas à nous contacter si vous avez utilisé le projet et souhaitez en
 
 There are currently three main modules built within PiRanhaLysis:
 
-* [PiRogue, une petite station permettant l'interception et l'analyse de paquets](https://github.com/PiRanhaLysis/PiRogue) ;
-* [PiPrecious, la plateforme de gestion et analyse de cas](https://github.com/PiRanhaLysis/PiPrecious) ;
-* [PiRanha, un outil d'automatisation de l'analyse réseau d'applications mobiles et des IoT](https://github.com/PiRanhaLysis/PiRanha).
+* [PiRogue](https://github.com/PiRanhaLysis/PiRogue), une petite station permettant l'interception et l'analyse de paquets ;
+* [PiPrecious](https://github.com/PiRanhaLysis/PiPrecious), la plateforme de gestion et analyse de cas ;
+* [PiRanha](https://github.com/PiRanhaLysis/PiRanha), un outil d'automatisation de l'analyse réseau d'applications mobiles et des IoT.
 
 Vous pouvez en apprendre davantage sur le projet et y contribuer sur [notre projet dédié](https://github.com/PiRanhaLysis).
 
