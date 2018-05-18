@@ -10,7 +10,8 @@ tagline:             Your comprehensive IoT analysis suite
 description:         A modern, multi-modular and comprehensive IoT and mobile app analysis suite
 paginate:            1
 baseurl:             ""
-pages_list:       
+pages_list:  
+  Demos: '/demos'     
   About: '/about'
   Archive: '/archive'
   Feed: '/atom.xml'
